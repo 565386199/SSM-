@@ -15,7 +15,7 @@ public class SysLogController {
 
     @Autowired
     ISysLogService iSysLogService;
-
+    //查询所有日志信息
     @RequestMapping("findAll.do")
     public ModelAndView findAll(){
         ModelAndView mv = new ModelAndView();
