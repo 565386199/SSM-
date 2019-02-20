@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itcastssm.iml" filepath="$PROJECT_DIR$/itcastssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcastssmdao/itcastssmdao.iml" filepath="$PROJECT_DIR$/itcastssmdao/itcastssmdao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcastssmdomain/itcastssmdomain.iml" filepath="$PROJECT_DIR$/itcastssmdomain/itcastssmdomain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcastssmservice/itcastssmservice.iml" filepath="$PROJECT_DIR$/itcastssmservice/itcastssmservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcastssmutils/itcastssmutils.iml" filepath="$PROJECT_DIR$/itcastssmutils/itcastssmutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcastssmweb/itcastssmweb.iml" filepath="$PROJECT_DIR$/itcastssmweb/itcastssmweb.iml" />
+    </modules>
+  </component>
+</project>
